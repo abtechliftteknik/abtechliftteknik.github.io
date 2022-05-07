@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "icon-base";
+    src: url("../fonts/icon-base.ttf") !important;
+    src: url("../fonts/icon-base.eot?#iefix") format("embedded-opentype"),url("../fonts/icon-base.woff") format("woff"),url("../fonts/icon-base.ttf") format("truetype"),url("../fonts/icon-base.svgicon-base") format("svg") !important;
+    font-weight: normal;
+    font-style: normal;
+    text-rendering:optimizeLegibility}
